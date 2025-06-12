@@ -23,7 +23,7 @@
     <img src="[https://img.icons8.com/fluent/48/000000/github.png](https://icons8.com/icon/k4jADXhS5U1t/telegram)"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png&color=000000"/>
+    <img src="https://icons8.com/icon/k4jADXhS5U1t/telegram"/>
   </a>
   <a href="mailto:tiennhm.it@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
