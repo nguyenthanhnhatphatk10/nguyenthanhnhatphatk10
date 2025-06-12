@@ -19,15 +19,6 @@
   <a href="https://www.facebook.com/01.tien" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
-    <img src="[https://img.icons8.com/fluent/48/000000/github.png](https://icons8.com/icon/k4jADXhS5U1t/telegram)"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://icons8.com/icon/k4jADXhS5U1t/telegram"/>
-  </a>
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
 </p>
 
 ## Skills:
