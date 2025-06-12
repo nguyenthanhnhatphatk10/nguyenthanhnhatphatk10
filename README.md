@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0362167b-6824-4b60-917c-013fed4b52fa)<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
+<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm Nguyễn Thanh Nhật Phát</h2>
@@ -23,7 +23,7 @@
     <img src="[https://img.icons8.com/fluent/48/000000/github.png](https://icons8.com/icon/k4jADXhS5U1t/telegram)"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+    <img src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png&color=000000"/>
   </a>
   <a href="mailto:tiennhm.it@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
