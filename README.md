@@ -22,7 +22,7 @@
   <a href="https://t.me/nguyenthanhnhatphatk10" alt="Telegram">
     <img src="https://img.icons8.com/fluency/48/telegram-app.png" target="_blank" />
   </a> 
-  <a href="https://t.me/nguyenthanhnhatphatk10" alt="Telegram">
+  <a href="https://discord.com/users/988987320491475004" alt="Telegram">
     <img src="https://img.icons8.com/color/48/discord-logo.png" target="_blank" />
   </a> 
 </p>
