@@ -20,7 +20,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://www.facebook.com/01.tien" alt="Telegram">
-    <img src="https://img.icons8.com/nolan/64/telegram-app.png" target="_blank" />
+    <img src="https://img.icons8.com/fluency/48/telegram-app.png" target="_blank" />
   </a> 
 </p>
 
