@@ -68,5 +68,3 @@
   </tr>
 </table>
 
-# Certificates:
-
